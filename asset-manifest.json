@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/geethalakshumi.github.io/Farmagainpro/static/css/main.df80987e.chunk.css",
+    "main.js": "/geethalakshumi.github.io/Farmagainpro/static/js/main.2c088183.chunk.js",
+    "main.js.map": "/geethalakshumi.github.io/Farmagainpro/static/js/main.2c088183.chunk.js.map",
+    "runtime-main.js": "/geethalakshumi.github.io/Farmagainpro/static/js/runtime-main.edeb6de9.js",
+    "runtime-main.js.map": "/geethalakshumi.github.io/Farmagainpro/static/js/runtime-main.edeb6de9.js.map",
+    "static/js/2.f0b1a2fc.chunk.js": "/geethalakshumi.github.io/Farmagainpro/static/js/2.f0b1a2fc.chunk.js",
+    "static/js/2.f0b1a2fc.chunk.js.map": "/geethalakshumi.github.io/Farmagainpro/static/js/2.f0b1a2fc.chunk.js.map",
+    "static/js/3.837e9f40.chunk.js": "/geethalakshumi.github.io/Farmagainpro/static/js/3.837e9f40.chunk.js",
+    "static/js/3.837e9f40.chunk.js.map": "/geethalakshumi.github.io/Farmagainpro/static/js/3.837e9f40.chunk.js.map",
+    "index.html": "/geethalakshumi.github.io/Farmagainpro/index.html",
+    "static/css/main.df80987e.chunk.css.map": "/geethalakshumi.github.io/Farmagainpro/static/css/main.df80987e.chunk.css.map",
+    "static/js/2.f0b1a2fc.chunk.js.LICENSE.txt": "/geethalakshumi.github.io/Farmagainpro/static/js/2.f0b1a2fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edeb6de9.js",
+    "static/js/2.f0b1a2fc.chunk.js",
+    "static/css/main.df80987e.chunk.css",
+    "static/js/main.2c088183.chunk.js"
+  ]
+}
